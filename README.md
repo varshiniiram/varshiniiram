@@ -1,4 +1,4 @@
-💻 Rajavarshini — Project Portfolio   
+💻 **Rajavarshini** **— Project Portfolio**   
 🚀 Passionate Developer | Problem Solver | Tech Enthusiast
 
 A showcase of impactful projects and continuous learning in **Software Development, DSA, and Core CS**.  
