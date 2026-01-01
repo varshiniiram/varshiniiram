@@ -41,7 +41,7 @@ A smart resume generator that helps users create professional resumes instantly 
 
 ## 👩‍💻 About Me
 🎓 CSE Student — Class of 2026  
-🔥 Focus Areas — DSA | Backend | Core CS | Web Dev  
+🔥 Focus Areas — DSA | Frontend | Backend | Core CS | Web Dev  
 🎯 Goal — Build scalable real-world products & grow in tech
 
 ---
